@@ -20,7 +20,7 @@ This is a **full-stack web application** following the **MVC (Model-View-Control
 ## Installation
 1. Clone the repository:
    ```sh
-   git clone https://github.com/your-username/your-repo.git
+   git clone https://github.com/mdzubair5k/villasHub.git
    ```
 2. Navigate to the project directory:
    ```sh
