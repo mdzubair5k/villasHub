@@ -36,7 +36,7 @@ This is a **full-stack web application** following the **MVC (Model-View-Control
    ```
 5. Open the app in your browser:
    ```
-   http://localhost:3000
+   http://localhost:8080
    ```
 
 ## Usage
