@@ -48,8 +48,5 @@ This is a **full-stack web application** following the **MVC (Model-View-Control
 ## Contributing
 Contributions are welcome! Feel free to fork this repository, create a branch, and submit a pull request.
 
-## License
-This project is licensed under the **MIT License**.
-
 ## Contact
 For any inquiries or feedback, please reach out to [zubairsadik247@gmail.com].
